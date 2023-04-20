@@ -1,0 +1,147 @@
+body
+{
+    background-color: rgb(255,218,185);
+    font-family: "Nunito",sans-serif 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.blurb h2{
+    color: #EA1C2C;
+    font-weight: 100;
+    font-size: 2rem;
+}
+.blurb p{
+    color: #f498b8;
+    font-size: 1.125rem;
+    font-weight: 100;
+    line-height: 2;
+}
+.blurb img{
+    color: #EA1C2C;
+}
+.blurb button{
+    border-color: white;
+    background-color: #EA1C2C;
+    color:white;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+  cursor: pointer;
+  
+}
+.content{
+    margin-top: 100px;
+}
+.press-logo h2{
+    color: white;
+    font-family:cursive;
+    
+}
+.card p{
+    color:#f498b8;
+    font-family: fantasy;
+    line-height: 1.5;
+
+}
+.press-logo{
+    margin-top: 75px;
+}
+.card{
+    margin-top: 75px;
+}
+.card h2{
+    color: #EA1C2C;
+    font-family: cursive;
+    text-shadow: #ccc;
+}
+.card h2:hover{
+    color:aquamarine;
+    font-size: 3rem;
+}
+
+.navbutton i{
+    font-size: 1.8rem;
+    text-align: center;
+}
+#mainNavbar .navbar-brand {
+    color: #EA1C2C;
+    font-size: 2rem;
+}
+#mainNavbar
+{
+    font-size: 1.5rem;
+    font-weight: 200;
+}
+#mainNavbar .nav-link{
+    color: white;
+}
+
+#mainNavbar .nav-link:hover{
+    color: #EA1C2C;
+}
+#heading span{
+    color:#EA1C2C;
+}
+#heading h1{
+    font-weight: 100;
+    font-size: 3.5rem;
+}
+@media(max-width:1200px)
+{
+    #heading h1{
+        font-weight: 100;
+        font-size: 2.5rem;
+    }
+}
+.class{
+    margin-top: 100px;
+
+}
+.city button{
+    border-color: white;
+    background-color: #EA1C2C;
+    color:white;
+    box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease 0s;
+  cursor: pointer;
+}
+.candycloud img{
+    display: block;
+  margin-left: 150px;
+  margin-right: 150px;
+  width: 50%;
+  border:2px solid #fff;
+  box-shadow: 10px 10px 5px #ccc;
+}
+
+.carousel-slide{
+    margin-top:100px;
+}
+.box h2{
+     color: white;
+}
+.wrapper{
+     background-color: black;
+     height: 200px;
+}
+.wrapper p{
+    color: white;
+    font-size: 1.2rem;
+    text-align: center;
+
+}
+.wrapper a{
+    margin-left: 30px;
+    width: 1.5rem;
+}
+.wrapper i{
+    margin-top: 75px;
+    font-size: 2rem;
+    text-align: center;
+}
+.wrapper i:hover{
+    color: white;
+    border-color: black;
+    font-size: 3rem;
+}
+.responsive{
+    width: 100%;
+    height: auto;
+}
